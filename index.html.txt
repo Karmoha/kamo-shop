@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقعي الإلكتروني</title>
+</head>
+<body>
+    <header>
+        <h1>مرحباً بكم في موقعي الإلكتروني</h1>
+    </header>
+    <nav>
+        <!-- إضافة روابط التنقل هنا -->
+    </nav>
+    <section>
+        <h2>عنوان القسم</h2>
+        <p>هذا نص تجريبي للقسم الأول من الموقع.</p>
+    </section>
+    <footer>
+        <p>حقوق النشر © 2024</p>
+    </footer>
+</body>
+</html>
